@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+    text-align: center;
+}    
+.profile {
+    height: 200px;
+    width: 180px;
+    margin-top: 50px;
+}
+.coll{
+       width: 200px;
+    margin-top: 50px;
+    border-radius: 50px;
+    height: 150px;
+    border: dotted;
+}
+
+#welcome {
+    
+    
+    overflow: hidden;
+    height: 800px;
+    color: aliceblue;
+    opacity: 0.83;
+    background: linear-gradient(#60ebeb 0%, #27ae54 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 170px;
+    margin: 8px auto;
+}
+
+.inner {
+
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+
+}
+#thank{
+    border: DASHED;
+    color:coral;
+    font-family: fantasy;
+    font-size: 50px;
+}
+#home {
+
+    padding: 50px;
+    text-align: center;
+    background-color:aquamarine;
+    border-style:dashed;
+    border-color:blue;
+    border-width:5px;
+}
+.header{
+    font-family: fantasy;
+}
+#intro{
+    font-size:17px;
+    color:green;
+}
+#intro_h{
+    color:red;
+}
+#school{
+    font-size:17px;
+    color:green;
+}
+#education {
+
+    padding: 50px;
+    text-align: center;
+    background-color:lightpink;
+    border-style:dotted;
+    border-color:blue;
+    border-width:5px;
+}
+#work{
+    padding: 50px;
+    text-align: center;
+    background-color:rgb(250, 177, 42);
+    border-style:double;
+    border-color:black;
+    border-width:5px; 
+}
+#college{
+    font-size:17px;
+    color:green;
+}
+#achi {
+   
+    width: 190px;
+    margin-top: 100px;
+    border: dotted;
+}
+#awards{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+   color: tomato;
+}
+#achievements{
+    padding: 50px;
+    text-align: center;
+   background:peach;
+    border-style:double;
+    border-color:blue;
+    border-width:5px; 
+}
+.menu {
+    position: fixed;
+    background:yellow ;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    border: dotted;
+    font-family: fantasy;
+    font-size: 20px
+}
